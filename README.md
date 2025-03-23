@@ -6,3 +6,4 @@ Things to Improve or Fix:
 2. Persistent Data – Prevent tasks from resetting when the page refreshes.
 3. Daily Reset – Automatically reset the task counter at the start of a new day.
 4. Task History – Keep a record of completed tasks.
+5. Okay, what’s going on? The fonts aren’t loading...
