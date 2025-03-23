@@ -6,22 +6,22 @@
 
 @font-face {
     font-family: "Helvetica";
-    src: url(/Fonts/Helvetica.ttf);
+    src: url(Fonts/Helvetica.ttf);
 }
 
 @font-face {
     font-family: "Helvetica Bold";
-    src: url(/Fonts/Helvetica-Bold.ttf);
+    src: url(Fonts/Helvetica-Bold.ttf);
 }
 
 @font-face {
     font-family: "San Francisco";
-    src: url(/Fonts/SFUIText-Regular.otf);
+    src: url(Fonts/SFUIText-Regular.otf);
 }
 
 @font-face {
     font-family: "San Francisco Bold";
-    src: url(/Fonts/SFUIText-BoldG3.otf);
+    src: url(Fonts/SFUIText-BoldG3.otf);
 }
 
 #main {
