@@ -1,3 +1,9 @@
+@media only screen and (max-width: 1920px) {
+    #main {
+        width: 45%;
+    }
+}
+
 @media only screen and (max-width: 1440px) {
     #main {
         width: 50%;
@@ -29,7 +35,25 @@
     }
 }
 
+@media only screen and (max-width: 1440px) {
+    .task-input {
+        width: 85%;
+    }
+}
+
+@media only screen and (max-width: 1280px) {
+    .task-input {
+        width: 80%;
+    }
+}
+
 @media only screen and (max-width: 480px) {
+    .task-input {
+        width: 75%;
+    }
+}
+
+@media only screen and (max-width: 420px) {
     .task-input {
         width: 70%;
     }
