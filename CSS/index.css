@@ -6,22 +6,22 @@
 
 @font-face {
     font-family: "Helvetica";
-    src: url(/Fonts-2/Helvetica.ttf);
+    src: url(https://nabilhilmi21.github.io/Fonts-2/Helvetica.ttf);
 }
 
 @font-face {
     font-family: "Helvetica Bold";
-    src: url(/Fonts-2/Helvetica-Bold.ttf);
+    src: url(https://nabilhilmi21.github.io/Fonts-2/Helvetica-Bold.ttf);
 }
 
 @font-face {
     font-family: "San Francisco";
-    src: url(/Fonts-2/SFUIText-Regular.otf);
+    src: url(https://nabilhilmi21.github.io/Fonts-2/SFUIText-Regular.otf);
 }
 
 @font-face {
     font-family: "San Francisco Bold";
-    src: url(/Fonts-2/SFUIText-BoldG3.otf);
+    src: url(https://nabilhilmi21.github.io/Fonts-2/SFUIText-BoldG3.otf);
 }
 
 #main {
